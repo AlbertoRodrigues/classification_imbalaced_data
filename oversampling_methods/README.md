@@ -13,7 +13,7 @@
 
 ### The following image shows a improvement using this method in a decision function of the logistic regression classifier example:
 
-![random_over_sampler]()
+![random_over_sampler](https://github.com/AlbertoRodrigues/classification_imbalaced_data/blob/main/oversampling_methods/images/random_over_sampler.png)
 
 ## Naive random over-sampling smoothed
 
@@ -21,7 +21,7 @@
 
 The following image shows the observations generated around the minority classes:
 
-![random_over_sampler_smoothed]()
+![random_over_sampler_smoothed](https://github.com/AlbertoRodrigues/classification_imbalaced_data/blob/main/oversampling_methods/images/random_over_sampler_smoothed.png)
 
 ## SMOTE(Synthetic Minority Oversampling Technique)
 
@@ -29,5 +29,9 @@ The following image shows the observations generated around the minority classes
 
 ### More specifically:
 
-![generating_observations_smote]()
+![generating_observations_smote](https://github.com/AlbertoRodrigues/classification_imbalaced_data/blob/main/oversampling_methods/images/smote_generating_observations.png)
+
+### Its decision function may be:
+
+![smote](https://github.com/AlbertoRodrigues/classification_imbalaced_data/blob/main/oversampling_methods/images/smote.png)
 
