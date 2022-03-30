@@ -1,7 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Mar 29 14:22:53 2022
+import pandas as pd
+from plotnine import *
+import imblearn
 
-@author: alber
-"""
-
+raw_data=pd.read_csv("")
